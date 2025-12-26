@@ -8,7 +8,7 @@ We take the security of Effort Tracker seriously. If you discover a security vul
 
 **Please do NOT report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: sinagulsen@gmail.com
+Instead, please report them via email to: support@sinaware.com
 
 Include the following information in your report:
 
