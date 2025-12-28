@@ -58,6 +58,7 @@ For general questions, usage help, or discussions:
 ## 🔗 Links
 
 - [Extension on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Sinaware.efforttracker-extension)
+- [Documentation](https://github.com/Sinaware/EffortTracker/wiki)
 
 ## 📜 Code of Conduct
 
