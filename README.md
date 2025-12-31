@@ -37,12 +37,6 @@ Have an idea to make Effort Tracker better?
 
 [**→ Request a Feature**](../../issues/new?labels=enhancement&template=feature_request.md)
 
-## 💬 Questions & Discussions
-
-For general questions, usage help, or discussions:
-
-[**→ Start a Discussion**](../../discussions)
-
 ## 📌 Issue Labels
 
 | Label | Description |
