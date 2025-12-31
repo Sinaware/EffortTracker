@@ -46,7 +46,7 @@ The more context you provide, the faster we can help:
 
 ## Response Times
 
-- **Bug reports:** We aim to triage within 3 business days
+- **Bug reports:** We aim to triage with our best efforts
 - **Feature requests:** Reviewed during sprint planning
 - **Security issues:** Addressed with highest priority (see [SECURITY.md](SECURITY.md))
 
